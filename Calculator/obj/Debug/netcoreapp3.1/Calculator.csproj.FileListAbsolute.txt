@@ -1,0 +1,13 @@
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.AssemblyReference.cache
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/md.mahinurrahman/Projects/MidTermAssignment/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
